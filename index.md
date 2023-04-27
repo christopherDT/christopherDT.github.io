@@ -5,12 +5,10 @@ Timeseries Forecasting
 
 ---
 
-### Data Science Tutorials
-
-[Main Page](https://github.com/onboard-data/notebooks)
+### Data Science Tutorials [repo](https://github.com/onboard-data/notebooks)
 
 ---
-Timeseries Cleaning and Imputation [colab](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb) | [Medium](https://medium.com/onboard-blog/timeseries-cleaning-and-imputation-a96ab7e45eb7)
+Timeseries Cleaning and Imputation \[[colab](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb) | [Medium](https://medium.com/onboard-blog/timeseries-cleaning-and-imputation-a96ab7e45eb7)\]
 <img src="images/Forecasting_1.webp"/>
 
 ---
