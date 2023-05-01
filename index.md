@@ -1,4 +1,4 @@
-## Christopher Dudas-Thomas
+## Portfolio
 
 ### Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
