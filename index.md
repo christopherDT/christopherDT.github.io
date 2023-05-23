@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
+### Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
 <img src="images/outlier_detection.webp"/>
 
@@ -33,7 +33,7 @@ Open Source Spotlight: open-fdd for HVAC fault detection \[[medium](https://medi
 
 [Onboard ReadTheDocs](https://onboard-api-wrappers-documentation.readthedocs.io/en/latest/index.html)
 
-<!-- [open-fdd](https://github.com/bbartling/open-fdd/) -->
+[open-fdd](https://github.com/bbartling/open-fdd/)
 
 ---
 
