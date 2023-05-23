@@ -1,13 +1,15 @@
-## Portfolio
+## Selected Projects in Data Science, Machine Learning, and Open Source Software Development
 
 ### Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
 <img src="images/outlier_detection.webp"/>
 
+A series of data science tutorials and open source evangelism for Onboard Data, Inc.
+
 Onboard API Tutorials \[[one](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/01_api_and_wrapper.ipynb), [two](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/02_data-points-exploration-in-pandas.ipynb), [three](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/03_time-series-analysis.ipynb)\]
 
 
-Timeseries Cleaning and Imputation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb) | [medium](https://medium.com/onboard-blog/timeseries-cleaning-and-imputation-a96ab7e45eb7)\]
+Timeseries Cleaning and Imputation | \[[colab](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb) | [medium](https://medium.com/onboard-blog/timeseries-cleaning-and-imputation-a96ab7e45eb7)\]
 <!-- <img src="images/Timeseries_cleaning.webp"/> -->
 
 Forecasting, Part 1: Feature Selection \[[colab](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb) | [medium](https://medium.com/onboard-blog/feature-selection-and-timeseries-forecasting-24067e0038e3)\]
@@ -27,15 +29,21 @@ Open Source Spotlight: open-fdd for HVAC fault detection \[[medium](https://medi
 
 ---
 
-### Projects
+### Software Projects
 
 [Onboard R Client](https://github.com/onboard-data/client-R)
 
+* Refined the company's internal R client, bringing it up to CRAN standards, making it ready to be public-facing. Improved parity with company's public-facing Python API client.
+
 [Onboard ReadTheDocs](https://onboard-api-wrappers-documentation.readthedocs.io/en/latest/index.html)
+
+* Updated the company's API client docs to reflect the newly-public R client.
 
 [open-fdd](https://github.com/bbartling/open-fdd/)
 
----
+* Overhauled one portion of this open source AHU fault detection. Reduced redundant code, shifted to OOP, improved modularization.
+
+<!-- ---
 
 ### Category Name 2
 
@@ -45,4 +53,4 @@ Open Source Spotlight: open-fdd for HVAC fault detection \[[medium](https://medi
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+--- -->
