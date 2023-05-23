@@ -1,4 +1,4 @@
-## Selected Projects in Data Science, Machine Learning, and Open Source Software Development
+## Selected projects in data science, machine learning, and open source software development
 
 ### Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
