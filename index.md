@@ -15,6 +15,17 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 ### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation.
 [<img src="images/model_results.png?raw=true"/>](/pdf/CDudasThomas_Psychonomic_2021.pdf)
 
+### Absolute Direction Feedback Impacts Environmental Knowledge
+[<img src="images/campus_traversal.png?raw=true">](/pdf/christopher_dudas-thomas_psychonomics_2019.pdf)
+
+### How Do You Know If You’re Lost or Not? Epistemic and Pragmatic Action During Navigation
+[<img src="images/epistemic_v_pragmatic.png?raw=true">](/pdf/christopher_dudas_thomas_psychonomics_2018.pdf)
+
+### Navigational Feedback Technology Alters Environment Awareness
+[<img src="images/vb_v_hc.png?raw=true">](/pdf/christopher_aps_2017_final.pdf)
+
+### Lost and Confused: Measuring Uncertainty in Navigation
+[<img src="images/lost_and_confused.png?raw=true">](/pdf/christopher_psychonomics_2016_final.pdf)
 
 
 
