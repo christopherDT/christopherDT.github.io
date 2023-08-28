@@ -10,6 +10,9 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 ### Software Projects
 
+[QuantAQ R Client](https://github.com/christopherDT/r-quantaq)
+* Developing company's R API client from scratch following CRAN standards.
+
 [Onboard R Client](https://github.com/onboard-data/client-R)
 
 * Refined the company's internal R client, bringing it up to CRAN standards, making it ready to be public-facing. Improved parity with company's public-facing Python API client.
