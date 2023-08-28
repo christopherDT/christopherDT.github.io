@@ -11,8 +11,8 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 ### Research Projects
 
 
-[When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation.](/pdf/CDudasThomas_Psychonomic_2021.pdf)
-<img src="images/model_results.png?raw=true"/>
+When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation.
+[<img src="images/model_results.png?raw=true"/>](/pdf/CDudasThomas_Psychonomic_2021.pdf)
 
 
 
