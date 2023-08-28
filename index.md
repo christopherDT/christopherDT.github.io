@@ -8,6 +8,12 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 ---
 
+### Research Projects
+
+[When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation.](./pdf/christopher_psychonomics_2021_presentation.pdf)
+
+
+
 ### Software Projects
 
 [QuantAQ R Client](https://github.com/christopherDT/r-quantaq)
