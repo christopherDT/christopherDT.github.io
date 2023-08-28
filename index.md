@@ -9,10 +9,11 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 ---
 
-## Research Projects
+## Cognitive Science Research
 
+Click images for full poster pdf
 
-### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation.
+### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation. 
 [<img src="images/model_results.png?raw=true"/>](/pdf/CDudasThomas_Psychonomic_2021.pdf)
 
 ### Absolute Direction Feedback Impacts Environmental Knowledge
@@ -26,11 +27,6 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 ### Lost and Confused: Measuring Uncertainty in Navigation
 [<img src="images/lost_and_confused.png?raw=true">](/pdf/christopher_psychonomics_2016_final.pdf)
-
-
-
-
-
 
 ---
 
