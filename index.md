@@ -1,13 +1,14 @@
 # Selected Projects 
-**data science | cognitive science | machine learning | open source software development**
 
-## Text Segmentation from Engineering Drawings
+## Data Science/ML Projects
 
-To segment and extract useful building data from engineering drawings, I developed and ran ML experiments for optical character recognition with the [Kraken](https://github.com/mittagessen/kraken) convolutional neural network. Mainly, segmenting semantically meaningful text from engineering drawings like blueprints and schematics is a rather more difficult job than, say, text from standardized printed pages like books, newspapers, or magazines. Consequently, I fine-tuned Kraken, which was trained on pages or images with quite a bit more distortion and other abberations.
+### Text Segmentation from Engineering Drawings
 
-As part of the process, I streamlined and improved the data processing pipeline (mainly to normalize and filter incoming data to the model), improved training data accounting and quality, and improved results assessment and validation. Finally, I contributed to the final report for the Department of Energy grant supporting this research.
+**Problem:** Segmenting semantically meaningful text from engineering drawings (such as blueprints and schematics) is a rather more difficult job than, for example, text from standardized printed pages like books, newspapers, or magazines.
 
-## Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
+**Approach:** I fine-tuned the [Kraken](https://github.com/mittagessen/kraken) convolutional neural network, which was trained on pages or images with quite a bit more distortion and other abberations. I developed and ran ML experiments for optical character recognition, iterating between data preprocessing and experimental testing. As part of the process, I streamlined and improved the data processing pipeline, improved training data accounting and quality, and improved results assessment and validation. Finally, I contributed to the final report for the Department of Energy grant supporting this research.
+
+### Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
 <img src="images/outlier_detection.webp"/>
 
@@ -22,14 +23,22 @@ Click images for full poster pdf
 ### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation. 
 [<img src="images/model_results.png?raw=true"/>](/pdf/CDudasThomas_Psychonomic_2021.pdf)
 
+---
+
 ### Absolute Direction Feedback Impacts Environmental Knowledge
 [<img src="images/campus_traversal.png?raw=true">](/pdf/christopher_dudas-thomas_psychonomics_2019.pdf)
+
+---
 
 ### How Do You Know If You’re Lost or Not? Epistemic and Pragmatic Action During Navigation
 [<img src="images/epistemic_v_pragmatic.png?raw=true">](/pdf/christopher_dudas_thomas_psychonomics_2018.pdf)
 
+---
+
 ### Navigational Feedback Technology Alters Environment Awareness
 [<img src="images/vb_v_hc.png?raw=true">](/pdf/christopher_aps_2017_final.pdf)
+
+---
 
 ### Lost and Confused: Measuring Uncertainty in Navigation
 [<img src="images/lost_and_confused.png?raw=true">](/pdf/christopher_psychonomics_2016_final.pdf)
