@@ -1,5 +1,5 @@
 # Selected Projects 
-data science, cognitive science, machine learning, and open source software development
+**data science | cognitive science | machine learning | open source software development**
 
 ## Text Segmentation from Engineering Drawings
 
