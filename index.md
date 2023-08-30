@@ -8,6 +8,10 @@
 
 **Approach:** I fine-tuned the [Kraken](https://github.com/mittagessen/kraken) convolutional neural network, which was trained on pages or images with quite a bit more distortion and other abberations. I developed and ran ML experiments for optical character recognition, iterating between data preprocessing and experimental testing. As part of the process, I streamlined and improved the data processing pipeline, improved training data accounting and quality, and improved results assessment and validation. Finally, I contributed to the final report for the Department of Energy grant supporting this research.
 
+<!-- To segment and extract useful building data from engineering drawings, I developed and ran ML experiments for optical character recognition with the Kraken convolutional neural network. Mainly, segmenting semantically meaningful text from engineering drawings like blueprints and schematics is a rather more difficult job than, say, text from standardized printed pages like books, newspapers, or magazines. Consequently, I fine-tuned Kraken, which was trained on pages or images with quite a bit more distortion and other abberations.
+
+As part of the process, I streamlined and improved the data processing pipeline (mainly to normalize and filter incoming data to the model), improved training data accounting and quality, and improved results assessment and validation. Finally, I contributed to the final report for the Department of Energy grant supporting this research. -->
+
 ### Onboard Data Science Tutorials \[[git](https://github.com/onboard-data/notebooks), [medium](https://medium.com/@christopher_DT)\]
 
 <img src="images/outlier_detection.webp"/>
