@@ -1,7 +1,7 @@
 # Selected Projects 
 data science, cognitive science, machine learning, and open source software development
 
-## Segmenting Text from Engineering Drawings using Kraken Optical Character Recognition CNN 
+## Text Segmentation from Engineering Drawings
 
 To segment and extract useful building data from engineering drawings, I developed and ran ML experiments for optical character recognition with Kraken convolutional neural network. Mainly, segmenting semantically meaningful text from engineering drawings like blueprints and schematics is a rather more difficult job than, say, text from standardized printed pages like books, newspapers, or magazines. Consequently, I fine-tuned a convolutional neural net called [Kraken](https://github.com/mittagessen/kraken) that was trained on pages or images with quite a bit more distortion and other abberations.
 
