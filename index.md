@@ -60,11 +60,7 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 [Onboard R Client](https://github.com/onboard-data/client-R)
 
-* Refined the company's internal R client, bringing it up to CRAN standards, making it ready to be public-facing. Improved parity with company's public-facing Python API client.
-
-[Onboard ReadTheDocs](https://onboard-api-wrappers-documentation.readthedocs.io/en/latest/index.html)
-
-* Updated the company's API client docs to reflect the newly-public R client.
+* Refined the company's internal R client, bringing it up to CRAN standards, making it ready to be public-facing. Improved parity with company's public-facing Python API client. Updated the company's API client docs ([ReadTheDocs](https://onboard-api-wrappers-documentation.readthedocs.io/en/latest/index.html)) to reflect the newly-public R client.
 
 [open-fdd](https://github.com/bbartling/open-fdd/)
 
