@@ -28,29 +28,27 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 
 # Cognitive Science Research
 
-Click images for full poster pdf
-
-### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation. 
+### When The Wind Is Southerly: A Bayesian Model of Cue-based Cardinal Direction Estimation. \[[pdf](/pdf/CDudasThomas_Psychonomic_2021.pdf)\]
 [<img src="images/model_results.png?raw=true"/>](/pdf/CDudasThomas_Psychonomic_2021.pdf)
 
 ---
 
-### Absolute Direction Feedback Impacts Environmental Knowledge
+### Absolute Direction Feedback Impacts Environmental Knowledge \[[pdf](/pdf/christopher_dudas-thomas_psychonomics_2019.pdf)\]
 [<img src="images/campus_traversal.png?raw=true">](/pdf/christopher_dudas-thomas_psychonomics_2019.pdf)
 
 ---
 
-### How Do You Know If You’re Lost or Not? Epistemic and Pragmatic Action During Navigation
+### How Do You Know If You’re Lost or Not? Epistemic and Pragmatic Action During Navigation \[[pdf](/pdf/christopher_dudas_thomas_psychonomics_2018.pdf)\]
 [<img src="images/epistemic_v_pragmatic.png?raw=true">](/pdf/christopher_dudas_thomas_psychonomics_2018.pdf)
 
 ---
 
-### Navigational Feedback Technology Alters Environment Awareness
+### Navigational Feedback Technology Alters Environment Awareness \[[pdf](/pdf/christopher_aps_2017_final.pdf)\]
 [<img src="images/vb_v_hc.png?raw=true">](/pdf/christopher_aps_2017_final.pdf)
 
 ---
 
-### Lost and Confused: Measuring Uncertainty in Navigation
+### Lost and Confused: Measuring Uncertainty in Navigation \[[pdf](/pdf/christopher_psychonomics_2016_final.pdf)\]
 [<img src="images/lost_and_confused.png?raw=true">](/pdf/christopher_psychonomics_2016_final.pdf)
 
 ---
