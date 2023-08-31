@@ -24,6 +24,8 @@ A series of data science tutorials and open source evangelism for Onboard Data, 
 * outlier and anomaly detection \[[colab](https://colab.research.google.com/github/onboard-data/notebooks/blob/dev/07_outliers_and_anomalies.ipynb), [medium](https://medium.com/onboard-blog/outlier-and-anomaly-detection-for-building-experts-8329492783ec)\]
 * fault detection in HVAC systems \[[medium](https://medium.com/onboard-blog/open-fdd-for-automated-hvac-fault-detection-209945efde57)\]
 
+---
+
 # Cognitive Science Research
 
 Click images for full poster pdf
@@ -50,6 +52,8 @@ Click images for full poster pdf
 
 ### Lost and Confused: Measuring Uncertainty in Navigation
 [<img src="images/lost_and_confused.png?raw=true">](/pdf/christopher_psychonomics_2016_final.pdf)
+
+---
 
 # Software Projects
 
